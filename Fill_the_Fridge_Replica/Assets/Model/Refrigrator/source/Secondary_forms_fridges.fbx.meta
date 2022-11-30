@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: e3ef214c66db56543940137bde8b9458
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_bottons
+    second: {fileID: 2100000, guid: 8bb99bb3efeb55142aa0fa2fbaa870e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_magnet
+    second: {fileID: 2100000, guid: 9c62c71c77e9fe9438cdb241a073fa3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bolts_and_gears_color
+    second: {fileID: 2100000, guid: c8b7dd735e9c0734c895cf8b728ef9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cardboard_box
+    second: {fileID: 2100000, guid: 92f122443eb12c7499da350c23f3ee63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_box_01_base_color
+    second: {fileID: 2100000, guid: 7f2f98f10e42aaf4d98d24c62c3d5ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_box_02_base_color
+    second: {fileID: 2100000, guid: 54661b11b5fc49743a1863284e93b7fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_box_03_base_color
+    second: {fileID: 2100000, guid: e510d938bcd628445b9bf6536cd5c8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cerel_box_02
+    second: {fileID: 2100000, guid: 6949e0430821d014bbc502349ae8bc02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cord_base_color
+    second: {fileID: 2100000, guid: 210d9f45eed40434fbabec47c2aff101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cross_base_color
+    second: {fileID: 2100000, guid: ef5dfecc628d21241b5dfcfdb11a33d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawing_02
+    second: {fileID: 2100000, guid: 62829c355ce54494e82d4e8b04bc8cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drowing_01
+    second: {fileID: 2100000, guid: 8a75fc04262e594488994ec25a1b99e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Family_photo
+    second: {fileID: 2100000, guid: d4fee5fe8ee304548b901043cc448b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge_base_color
+    second: {fileID: 2100000, guid: 4d3d51f0db0e500479a358679e0047a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Froot_loops_blue
+    second: {fileID: 2100000, guid: cf04eedfdd8b1bb4fb5e1c24a5ce004a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Froot_loops_green
+    second: {fileID: 2100000, guid: 25f9e52b3e51ae14d9ce1acb6b14bd66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Froot_loops_pink
+    second: {fileID: 2100000, guid: c77e79996290a444297ccfcb0974c2ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_balone
+    second: {fileID: 2100000, guid: 512c0692c77c04442843afa501065942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_door
+    second: {fileID: 2100000, guid: 8de0640504d04bc47a83a04bdac9e131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gren_bottons
+    second: {fileID: 2100000, guid: 665d31f1dc00bd645b81d4bc6156f2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grocery_list1
+    second: {fileID: 2100000, guid: 4df0e2d6ff867de4b98730cf9056ec60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_and_little_details_color
+    second: {fileID: 2100000, guid: 573cd7f0b1d82a249a33de8d61d37bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lightbolb_01
+    second: {fileID: 2100000, guid: 1af2dd97000e115409ff8324001b261c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Med_fridge_botton_blue
+    second: {fileID: 2100000, guid: 2e5f48bdf66b32148a95fff02ca7b123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Med_fridge_botton_green
+    second: {fileID: 2100000, guid: 35c130e35042e5f4ab9a70e304b0b4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medical_cart
+    second: {fileID: 2100000, guid: fdcc4b0ebba71ce43a03d9d2e6e758f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medical_fridge_base_color
+    second: {fileID: 2100000, guid: ccbfb673b2b60954d8ddb1ebf1adce6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medicar_cart_metal
+    second: {fileID: 2100000, guid: 5d8e43ca3fe903343a3cd469fb5ad438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No_paint_spaces
+    second: {fileID: 2100000, guid: 9953907257dde244ea257033e9e58524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_fridge_base_color
+    second: {fileID: 2100000, guid: b48f886bd756089468e0d5232956bc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_bottons
+    second: {fileID: 2100000, guid: 4b87925ec993a09458e2cbdd52cc5503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_fridge_cabinets
+    second: {fileID: 2100000, guid: 1258dbf310948b34380559026bc7e9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Protactive_foam
+    second: {fileID: 2100000, guid: ed0ecfeeffbbfc04ba20559c0b762f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puddle
+    second: {fileID: 2100000, guid: 5a4e26cb84bc1f7478ddb97055816595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_bottons
+    second: {fileID: 2100000, guid: 8d310b16435b208409ebeb247684a764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_magnet
+    second: {fileID: 2100000, guid: d8f08ab5fb3e67c40aafded50fb92cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Round_bottons_control_panel
+    second: {fileID: 2100000, guid: 37d0d59962418264f9b7eb1e379f2892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tape_on_the_handle
+    second: {fileID: 2100000, guid: 69df898b9eeba1649aec54d1b5c68ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile_01
+    second: {fileID: 2100000, guid: 41e27887d260f8f4cb666550e82b2b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile_03
+    second: {fileID: 2100000, guid: 5470c467ad1135240961a4d9b2fbc668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tive_05
+    second: {fileID: 2100000, guid: e9db9688930abe64aabcc940840ce875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tridge_motor_offpaint
+    second: {fileID: 2100000, guid: 375dcb74cb0d06741bdb341293545f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels_fridge
+    second: {fileID: 2100000, guid: c97d74eab7c8fac4b8bebd41128734f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow_magnet
+    second: {fileID: 2100000, guid: fc0fddaf6b7ee8f43bfd470c09dfb53d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn12
+    second: {fileID: 2100000, guid: 9c2dda671688c994da95eacb89eb3cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blood
+    second: {fileID: 2100000, guid: 277563021f91e0945a2d314551df68a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle_glass
+    second: {fileID: 2100000, guid: 737573ecb8305554eb3745215bd34e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement_white_color
+    second: {fileID: 2100000, guid: e65ba26938ea4254fb6bf3374de4f0e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement_yellow_older_looking
+    second: {fileID: 2100000, guid: a8dac7024165e9c4aa9206f2410ea7ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creepy_liquid
+    second: {fileID: 2100000, guid: 9db1c07af83eebc4e9c42d1bd022ee86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c3bf6bb53cb250547a444079bb336528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: 376f93cbaae8eff42a71c9b7cbba01e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert30
+    second: {fileID: 2100000, guid: 4328583e33d2ab146ab3a0dfbe638f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert34
+    second: {fileID: 2100000, guid: 472fc179b93d2024dac50f7ba69b63c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: a49a2696fd927c14e88301b8fa885757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screwdriver_color_01
+    second: {fileID: 2100000, guid: 67a5439c104407340874da0148dd1130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screwdriver_color_02
+    second: {fileID: 2100000, guid: 0d9c481c07839a240bed3f4171e2dcfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile_02
+    second: {fileID: 2100000, guid: 1b407850b6dcdd347b9ea7802022ad1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile_02_cracs_color
+    second: {fileID: 2100000, guid: 60fce8dfc0adc7e42860df6851b72f5b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

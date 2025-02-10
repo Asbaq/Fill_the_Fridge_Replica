@@ -9,6 +9,10 @@ Sure! Here's how you can structure the documentation for your **Fill_the_Fridge_
 ## 📌 Introduction
 **Fill_the_Fridge_Replica** is an interactive game that simulates filling a fridge with milk cartons. The game involves opening and closing fridge doors and shelves, where the player can place milk cartons in different spots. The game features smooth animations for object transformations, leveraging the DoTween package for seamless position and rotation transitions.
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/PhOjPi6cUlk?si=96MTg4_pFkewVlb9
+
 ## 🔥 Features
 - 🥛 **Milk Carton Interaction**: Players can interact with fridge shelves to add milk cartons.
 - 🚪 **Door Animation**: Fridge doors can be opened and closed with smooth animations.

@@ -1,7 +1,3 @@
-Sure! Here's how you can structure the documentation for your **Fill_the_Fridge_Replica** project using the same format as the previous one:
-
----
-
 # Fill_the_Fridge_Replica 🥛🚪
 
 ![Fill_the_Fridge_Replica](https://user-images.githubusercontent.com/62818241/204718605-c319b63d-3c07-4168-9da0-76837868b5cb.PNG)
